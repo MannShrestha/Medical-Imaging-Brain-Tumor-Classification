@@ -3,6 +3,9 @@
 ## Dataset: 
 Dataset link: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
 
+## Project Demo:
+![Project-Demo](https://github.com/user-attachments/assets/27777f38-9ebc-4c8b-bd88-a1dd98ec5f84)
+
 ## Project Setup:
 
 **1. Create conda environment**
